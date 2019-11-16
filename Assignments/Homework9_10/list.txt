@@ -1,0 +1,12 @@
+hello world
+2
+1
+bar
+3
+0
+foo
+5
+0
+zak sakata
+9
+1
